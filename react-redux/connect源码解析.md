@@ -1,7 +1,7 @@
 ## connnect
 `connect` 是一个可以执行两次的柯里化函数，第一次传入的参数相当于一系列的定制化东西，第二次传入的就是你要连接的组件，然后返回一个新的react组件
 
-![connect]('../images/connect.jpg')
+![connect](../images/connect.jpg)
 
 ```javascript
 export function createConnect(

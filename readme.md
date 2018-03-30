@@ -22,6 +22,3 @@
 
 ## redux-thunk
 [redux-thunk api解析](./redux-thunk/redux-thunk源码解析.md)
-
-## 设计模式相关
-[装饰器模式](./装饰器模式.md)
